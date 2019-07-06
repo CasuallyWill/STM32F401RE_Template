@@ -1,4 +1,4 @@
-Modified by Will Bonsmann
+**Modified by Will Bonsmann, original project by Prof7bit https://github.com/prof7bit/bare_metal_stm32f401xe**
 * Included the ST Standard Peripheral Drivers
 * Changed startup file and linker to ones provided by ST
 
